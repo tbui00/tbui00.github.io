@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "buit",
         "url": "https://www.linkedin.com/in/tracy-bui-30553621b/"
       }
     ]
@@ -31,17 +31,15 @@
     {
       "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "computer design",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "sustainability",
       "keywords": [
       ]
     }
