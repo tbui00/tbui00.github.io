@@ -126,7 +126,8 @@
   "references": [
     {
       "name": "Ryan Carvalho",
-      "reference": "Information Technology Services Help Desk - Supervisor",
+      "organization": "Information Technology Services Help Desk",
+      "position": "Supervisor",
       "phone": "(808)956-0459",
       "email": "rpc3@hawaii.edu"
     }
