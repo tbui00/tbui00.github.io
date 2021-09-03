@@ -14,7 +14,7 @@ summary: A C++ program that will create instances of the child classes in the he
 ![pokemon image](https://tbui00.github.io/images/pokemon_image.jpg)
 
 ## Description: 
-This project was our 9th project where we began using C++. We are utilizing the classes in order to make our own pokeon team in the form of a database. This helped us build a better understanding of how C++ can be used to store data in the heap memory and how objects are stored.
+This project was our 9th project where we began using C++. We are utilizing the classes in order to make our own pokemon team in the form of a database. This helped us build a better understanding of how C++ can be used to store data in the heap memory and how objects are stored.
 
 ## Role:
 This project is individual and the code is all written by me. The project gave us a description of what the program needed to fulfill and a basis amount of code necessary to complete the project. We needed to use the ideas learned from class and learn the necessary terms and structure of C++ in order to complete this project.
