@@ -1,25 +1,45 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-# All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+image: images/project_2.png
+title: Pokemon Pokedex
+permalink: projects/pokedex
+date: 2020-12-10
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C++
+  - Database
+summary: A C++ program that will create instances of the child classes in the heap memory, creating two data containers. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+## Description: 
+This project was our 9th project where we began using C++. We are utilizing the classes in order to make our own pokeon team in the form of a database. This helped us build a better understanding of how C++ can be used to store data in the heap memory and how objects are stored. 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+## A sample of the main function
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+    int main(int argc, char *argv[])
+    {
+    vector<Pokemon*> poke_vec;
+    map<string, Pokemon*> poke_map;
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+    /* creates instance of all child classes in heap memory */
+    Pokemon *P1 = new Lugia;
+    Pokemon *P2 = new Lapras;
+    Pokemon *P3 = new Lucario;
+
+    /* stores addresses of objects into vector poke_vec */
+    poke_vec.push_back(P1);
+    poke_vec.push_back(P2);
+    poke_vec.push_back(P3);
+
+    /* stores addresses of objects into map poke_map */
+    poke_map["lugia"] = P1;
+    poke_map["lapras"] = P2;
+    poke_map["lucario"] = P3;
+
+    /* calls checkPokedex function by each element of the containers */
+    cout << "\nVector Data Container: \n";
+    cout << "-----------------------------\n";
+    checkPokedex(poke_vec[0]);
+    checkPokedex(poke_vec[1]);
+    checkPokedex(poke_vec[2]);
+    cout << "-----------------------------\n";
