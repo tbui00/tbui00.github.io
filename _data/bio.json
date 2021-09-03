@@ -71,19 +71,12 @@
       "startDate": "2018-08-23",
       "endDate": "Present",
       "gpa": "3.47",
-      "courses": [ "ICS 101",
-                  "ICS 111",
-                  "ICS 141",
-                  "ICS 211",
-                  "ICS 212",
-                  "ICS 241",
-                  "ICS 311"
-      ]
+      "courses": "ICS 101, ICS 111, ICS 141, ICS 211, ICS 212, ICS 241, ICS 311"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Enterprise Systems",
+      "company": "UH Information Technology Services - Enterprise Systems",
       "position": "Java Web Programmer I",
       "website": "",
       "startDate": "2021-08-27",
@@ -95,7 +88,7 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "UH Information Technology Services - Help Desk",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2021-02-18",
