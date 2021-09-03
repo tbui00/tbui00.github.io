@@ -1,15 +1,14 @@
 ---
 layout: project
 type: project
-published: true
-image: images/project_1.jpg
+image: images/project_1.png
 title: UI/Database Bank Record System
-permalink: projects/project-1
-date: 2020-11-03
+permalink: projects/ui-database
+date: 2021-11-03
 labels:
- - C
- -
- summary: Created a project using the programming language C to replicate a simple user interface program that stores records of users. 
+  - C
+  - Database
+summary: Created a project using the programming language C to replicate a simple user interface project that stores records of users in a database. 
 ---
 
 # UI/Database Bank Record System
@@ -19,7 +18,7 @@ The UI/Database Bank Record System allows the program to read into record files 
 
 ## A portion of the database code traversing to find a location to insert:
 
-current = *start;
+        current = *start;
 
         /* traverse through list and find location to insert new record */
         while (current != NULL && location == 1)
