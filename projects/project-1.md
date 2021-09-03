@@ -4,6 +4,7 @@ type: project
 published: true
 image: images/project_1.jpg
 title: UI/Database Bank Record System
+permalink: projects/project-1
 date: 2020-11-03
 labels:
  - C
