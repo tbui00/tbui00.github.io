@@ -8,7 +8,7 @@ date: 2021-11-03
 labels:
   - C
   - Database
-summary: Created a project using the programming language C to replicate a simple user interface project that stores records of users in a database. 
+summary: A C program that replicates a simple user interface project that stores records of users in a database. 
 ---
 
 ## Description: 
