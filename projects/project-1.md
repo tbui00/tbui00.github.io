@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/project_1.jpg
+image: images/project_1.png
 title: UI/Database Bank Record System
 permalink: projects/ui-database
 date: 2021-11-03
