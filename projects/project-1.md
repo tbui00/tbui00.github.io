@@ -4,7 +4,7 @@ type: project
 image: images/project_1.png
 title: UI/Database Bank Record System
 permalink: projects/ui-database
-date: 2021-11-03
+date: 2020-11-03
 labels:
   - C
   - Database
