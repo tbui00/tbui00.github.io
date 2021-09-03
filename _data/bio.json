@@ -120,33 +120,22 @@
         "Dedicated to help students have a smooth transition from high school to incoming college freshmen and create a safe environment for them",
         "Provided and participated in different volunteering opportunities"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2018-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Ryan Carvalho",
+      "reference": "Information Technology Services Help Desk - Supervisor",
+      "number": "Office Phone: (808)956-0459",
+      "email": "rpc3@hawaii.edu"
     }
   ]
 }
