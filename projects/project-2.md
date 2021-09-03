@@ -14,7 +14,7 @@ summary: A C++ program that will create instances of the child classes in the he
 ## Description: 
 This project was our 9th project where we began using C++. We are utilizing the classes in order to make our own pokeon team in the form of a database. This helped us build a better understanding of how C++ can be used to store data in the heap memory and how objects are stored. 
 
-## A sample of the main function
+## A sample of the main function:
 
     int main(int argc, char *argv[])
     {
