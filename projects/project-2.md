@@ -49,3 +49,5 @@ This project was one of the many assignments done in the course ICS 212. Since t
     checkPokedex(poke_vec[1]);
     checkPokedex(poke_vec[2]);
     cout << "-----------------------------\n";
+    
+Here is a link to the github project page: https://github.com/tbui00/pokemon-database
