@@ -7,7 +7,7 @@ permalink: projects/league-snake
 date: 2019-12-09
 labels:
   - Java
-summary: A final group project where we created an alternative way of playing the classic Snake game. 
+summary: A final group project utilizing Java language where we created an alternative way of playing the classic Snake game. 
 ---
 
 ## Description: 
