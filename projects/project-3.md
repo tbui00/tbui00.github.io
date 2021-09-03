@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/poroSpriteSheet.png
-title: The League of Legends Snake
+title: The League of Snakes
 permalink: projects/league-snake
 date: 2019-12-09
 labels:
