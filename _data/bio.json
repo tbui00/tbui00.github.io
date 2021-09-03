@@ -51,10 +51,7 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
@@ -62,62 +59,66 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "General Computer Science (expected Fall, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-23",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.47",
+      "courses": [ "ICS 101",
+                  "ICS 111",
+                  "ICS 141",
+                  "ICS 211",
+                  "ICS 212",
+                  "ICS 241",
+                  "ICS 311"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Enterprise Systems",
+      "position": "Java Web Programmer I",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-08-27",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developing web applications using Java, Spring, Struts, JSPs, Oracle, MySQL, Eclipse.",
+        "Assist and collaborate in various project teams to develop and maintain a variety of system-wide web applications."
       ]
     },
     {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2021-02-18",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Answer phone calls in a timely manner to assist UH users over the phone and  respond to emails prioritizing the older messages first",
+        "Troubleshoot software, networking, hardware issues and start a remote support session to view the user’s screen if necessary",
+        "Monitor network and system operations every 30 minutes in the Operations Center and check the Data Center on weekends. Notified supervisors if there were any issues that needed to be taken care of"
       ]
-    }
+    }    
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Hawaii Undergraduate Initiative",
+      "position": "RIO Member",
+      "startDate": "2019-08-23",
+      "endDate": "2020-12-21",
+      "summary": "Develop college students with a capacity for leadership",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Participate in various social gatherings and engaging events to experience and explore in academic careers while developing writing and math skills",
+        "Dedicated to help students have a smooth transition from high school to incoming college freshmen and create a safe environment for them",
+        "Provided and participated in different volunteering opportunities"
       ]
     },
     {
@@ -140,12 +141,6 @@
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
