@@ -16,7 +16,7 @@ The course taken was ICS 111 and the final for the course was a final group proj
 The group work was divided evenly where we all took turns writing the code together during class time and helped each other if we were to have trouble with any part of it. We each had moments where we were unsure of what to write down and received help from each other collaboratively. 
 
 ## A sample of the main source code:
-//allows the poro to collect porosnax and increases the score by 1 per snack
+        //allows the poro to collect porosnax and increases the score by 1 per snack
 	public static void collect() {
 		if (poro.isInside(Collectibles.snaxX(), Collectibles.snaxY())) {
 			Collectibles.translateTo(3000,3000);
