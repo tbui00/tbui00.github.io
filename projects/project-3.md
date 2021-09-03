@@ -13,7 +13,7 @@ summary: A final group project utilizing Java language where we created an alter
 ## Description: 
 The course taken was ICS 111 and the final for the course was a final group project where we had to work together to create a game. Our group decided to create a snake game but with a twist. Instead of the traditional Snake that needs to go in one direction and cannot touch any part of its body, we made a sprite named "Poro" that is able to navigate around the map and dodge objects that comes towards it. Poro is actually a very small puff ball that is from the game League of Legends. It was not our intention for it to stray away from the original Snake game. The enemies themselves gradually increase in number over time and spawn at random points in the map. In order to win the game you will need to collect a certain amount of cookies that are randomly placed around the map. 
 
-The group work was divided evenly where we all took turns writing the code together during class time and helped each other if we were to have trouble with any part of it. We each had moments where we were unsure of what to write down and received help from each other collaboratively. 
+The group work was divided evenly where we all took turns writing the code together during class time and helped each other if we were to have trouble with any part of it. We each had moments where we were unsure of what to write down and received help from each other collaboratively. I also created the Poro spirite that you see as the image of this program. We are able to see the how the Poro looks like and changes appearance when it moves up, down, left, and right.
 
 ## A sample of the main source code:
     //allows the poro to collect porosnax and increases the score by 1 per snack
