@@ -43,5 +43,6 @@ This project was weighed heavily because it was one of the two final projects th
 
 Here is a link to the github project page for the [UI/Database Bank Record System](https://github.com/tbui00/ui-database-bank).
 
-
+&nbsp;
+&nbsp;
 
