@@ -52,3 +52,5 @@ This project was one of the many assignments done in the course ICS 212. Since t
     
 Here is a link to the github project page for the [Pokemon Database]( https://github.com/tbui00/pokemon-database).
 
+&nbsp;
+&nbsp;
