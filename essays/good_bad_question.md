@@ -9,8 +9,6 @@ labels:
  - Stack Overflow
 ---
 
-
-## Introduction: 
 There are many moments in our life where we are working on a problem, get stuck, and need some insight in order to figure out a solution. There are a wide variety of ways where you can seek for a solution such as from your textbook, an article, or from an individual. More likely than not, receiving help from an individual aids you in learning more about the problem and why the solution came to be that way. The way we can seek for help can be done through many different methods, considering how the access to online resources are readily available in a matter of mere seconds. A common resource is visiting the website Stack Overflow which follows a forum format in which you can post your question or find a question similar to what you are looking for and refer to many different answers from individuals around the world. This kind of community-based forum allows you to possibly find a question that someone else has already asked as well. This kind of practice does not only have to be done through Stack Overflow but can be applied to other resources when looking online as well. In this way, you are efficiently saving time for yourself and for others if you are able to find a question that someone has already asked and was provided with a good answer. 
 
 ## What makes a bad question, bad?
