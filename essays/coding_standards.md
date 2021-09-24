@@ -30,3 +30,6 @@ From experience thus far, using ESLint has helped me code with Javascript and fu
 ```
 
 Particularly, take a look at line 2. When first learning Javascript, it is a habit to declare many of your variables with the word "let" rather than "const." It is learned that using "var" is not recommended due to the scope access and declaring variables with "const" normally means you don't want that variable to change its value. ESLint sees line 2 of the code, marks it as an error, and provides an informative message which looks like "ESLint:'finalList' is never reassigned. Use 'const' instead. (prefer-const)" This information was taught at the beginning of the course when I took FreeCodeCamp.org which gives you a basic understanding of the Javascript ES5 language and ES6 language. However, I never got to apply this basic knowledge to my coding until ESLint informed me. Knowing that since the variable is an array list is never reassigned and we are just changing the content inside of the array list helped me better understand the Javascript language and why using "const" is preferred over "let" in such cases. Utilizing the coding standard program ESLint allowed me to further my understanding of the JavaScript programming language on top of gaining a good habit of learning code structure and rules. 
+
+&nbsp;
+&nbsp;
