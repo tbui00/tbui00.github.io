@@ -9,9 +9,9 @@ labels:
  - Education
  - ESLint
 ---
-##Are Coding Standards Useful?
 When the words "coding standards" come into a conversation,  it is common to think you have a set of rules to follow to structure your code. We may think of it as something simple, or question whether it's useful in our code. If we did not have coding standards for programming languages, it is more likely that everyone's code will be structurally different, difficult to read and understand, and hard to add to. It may reach a point where the code can be incomprehensible and people may not find it beneficial to read although it may have a solution.
 
+##Are Coding Standards Useful?
 When we apply coding standards to a specific programming language that we learn, we are not only creating a good practice in how to properly structure our code but we are allowing for readability. This readability can go a long way in terms of learning the programming language and allowing others to efficiently understand the code. When you can stick to coding standards that are particular to a programming language, you can read it easier and this allows you to direct your attention to understanding the code and language instead of spending your time trying to read it. You get used to the way something is structured, allowing good habits to form. Not only is something easier to read but the programming language is recognized.
 
 ##Javascript with ESLint on IntelliJ IDEA
