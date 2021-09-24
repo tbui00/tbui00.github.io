@@ -1,4 +1,14 @@
-
+---
+layout: essay
+type: essay
+published: true
+title: Why Follow Coding Standards
+date: 2021-09-23
+labels:
+ - Javascript
+ - Education
+ - ESLint
+---
 ##Are Coding Standards Useful?
 When the words "coding standards" come into a conversation,  it is common to think you have a set of rules to follow to structure your code. We may think of it as something simple, or question whether it's useful in our code. If we did not have coding standards for programming languages, it is more likely that everyone's code will be structurally different, difficult to read and understand, and hard to add to. It may reach a point where the code can be incomprehensible and people may not find it beneficial to read although it may have a solution.
 
