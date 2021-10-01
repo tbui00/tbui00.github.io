@@ -1,4 +1,13 @@
-
+---
+layout: essay
+type: essay
+published: true
+title: My RadGrad Journey Thus Far 
+date: 2021-09-30
+labels:
+ - RadGrad
+ - Education
+---
 
 ## First Impressions on RadGrad
 My first encounter with RadGrad was not through the ICS 314 class that I am currently taking now but was actually through the ICS 211 course that I have taken in the past about one year ago. I was taking the course with Professor Moore and I think he is also one of the main developers of the RadGrad website. During that time I also went through the same RadGrad New User tutorial in which I needed to create my account and complete the high priorities at the time. At that time, I was still on the edge of whether or not I wanted to commit to pursuing a degree in Computer Science. Therefore, seeing this website at that time helped me to see what kind of interests I had matched up with the courses or opportunities out there. At that time, it also helped take some of the uneasiness off my shoulders because I thought that going into Computer Science means there are only careers related to coding. I gained new insight into how much of a variety computer science can offer. 
