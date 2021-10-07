@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+published: true
+title: Semantic UI or just HTML/CSS? 
+date: 2021-10-06
+labels:
+ - Semantic UI
+ - HTML
+ - CSS
+---
 
 ## Semantic UI Usage
 This course has begun introducing the idea of UI Frameworks and how we can start creating our webpages using the UI Framework, Semantic UI to do so. Before this section, we were only using HTML and CSS to code our web pages as an introduction to how to create web pages. These web pages although worked, would require a lot more coding to create a responsive environment. This is quite clear when comparing just HTML and CSS alone and then using Semantic UI with HTML and CSS. The amount of code required to create a responsive website can be easily done using Semantic UI in comparison to trying to do this only with HTML and CSS. 
