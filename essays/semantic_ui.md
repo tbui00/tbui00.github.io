@@ -23,3 +23,6 @@ I am still in the process of learning Semantic UI and therefore I don't have a f
 
 ## Why go through the trouble to learn?
 Is it worth going through the trouble to learn another framework? Yes, it is. Not only are you expanding your knowledge of how to use different applications and frameworks, but you are also giving yourself less work to do if utilizing the frameworks correctly. Semantic UI is supposed to help design websites quickly and allow more room for customization. Limiting yourself to using only HTML and CSS can be cumbersome and time-consuming. It can be necessary at times when you want to exploit the presence of a certain feature. However, in today's world, it is more convenient when you have a web page that can run on all sorts of platforms and environments at the same time. I don't think I will only go back to only using HTML and CSS to create websites when I know there is a framework out there that can help me create more creative and beautiful websites with much more ease. 
+
+&nbsp;
+&nbsp;
