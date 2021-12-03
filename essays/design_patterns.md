@@ -14,10 +14,10 @@ Let’s start by talking about what is a “design pattern”? Design patterns, 
 newcomers gain the knowledge and experience that skillful people have. In a more technical sense, we can take a look at the quote by 
 Christoper Alexander which states that a design pattern.. 
 
-> *Describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, 
-in such a way that you can use this solution a million times over, without ever doing it the same way twice.
+> _Describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, 
+in such a way that you can use this solution a million times over, without ever doing it the same way twice._
 
-   -*Christoper Alexander, 1977. 
+   -_Christoper Alexander, 1977._ 
 
 ## Understanding Design Patterns with Real World Examples
 To try and understand this in other words, design patterns allow us to understand a commonly occurring problem with a reusable solution. 
@@ -28,7 +28,7 @@ Think of the problem of how you would make a cup of a drink. This can be any dri
 you need various ingredients (components) to end up with a cup of coffee. These ingredients include milk, water, sugar, coffee. 
 To make a cup of tea, you need milk, water, sugar, and tea leaves. To make milk tea, you need milk, water, sweetener, and brewed tea. 
 We can see a pattern here where the process of making the drink is essentially the same where you need to heat up or brew a certain ingredient 
-and mix it all. The only difference between these different drinks is the ingredients themselves. If we observe this in a design pattern sense, 
+and mix it all together. The only difference between these different drinks is the ingredients themselves. If we observe this in a design pattern sense, 
 we’ve come up with a generic process that allows us to make different drinks. I hope that after reading this example you were able to 
 understand design patterns a little bit better. 
 
