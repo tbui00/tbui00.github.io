@@ -16,8 +16,7 @@ Christoper Alexander which states that a design pattern..
 
 > _Describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, 
 in such a way that you can use this solution a million times over, without ever doing it the same way twice._
-
-                                                                               -Christoper Alexander, 1977
+           -Christoper Alexander, 1977
 
 ## Understanding Design Patterns with Real World Examples
 To try and understand this in other words, design patterns allow us to understand a commonly occurring problem with a reusable solution. 
