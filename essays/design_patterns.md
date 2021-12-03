@@ -10,7 +10,7 @@ labels:
  - Software Engineering
 ---
 
-Let’s start by talking about what is a “design pattern”? Design patterns, in a simple sense, is something that is a pattern that helps 
+Let’s start by talking about what is a “design pattern”? Design patterns in a simple sense, is something that is a pattern that helps 
 newcomers gain the knowledge and experience that skillful people have. In a more technical sense, we can take a look at the quote by 
 Christoper Alexander which states that a design pattern.. 
 
