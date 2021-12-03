@@ -14,9 +14,10 @@ Let’s start by talking about what is a “design pattern”? Design patterns, 
 newcomers gain the knowledge and experience that skillful people have. In a more technical sense, we can take a look at the quote by 
 Christoper Alexander which states that a design pattern.. 
 
-> Describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, 
+> *Describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, 
 in such a way that you can use this solution a million times over, without ever doing it the same way twice.
--Christoper Alexander, 1977. 
+
+   -*Christoper Alexander, 1977. 
 
 ## Understanding Design Patterns with Real World Examples
 To try and understand this in other words, design patterns allow us to understand a commonly occurring problem with a reusable solution. 
@@ -46,3 +47,6 @@ accessible by the class “ProfileCollection.” We create a single instance of 
 accessible by the rest of the application. Different methods within this application can call upon the single instance of the ProfileCollection 
 and manipulate it. I hope that reading about a real application in software development for a web application helps you understand what 
 a singleton design pattern is.
+
+&nbsp;
+&nbsp;
