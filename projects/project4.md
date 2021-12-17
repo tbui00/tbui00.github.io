@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/roomniverse-picture.jpg
+image: images/roomniverse-picture.JPG
 title: Roomniverse Web Applcation
 permalink: projects/roomniverse
 date: 2021-12-15
@@ -37,9 +37,9 @@ and helps everyone be on the same page. Using the GitHub project board helped di
 work. 
 
 ## The User Profile page:
-![user profile image 1](https://tbui00.github.io/images/roomniverse-user-profile-page.jpg)
+![user profile image 1](https://github.com/tbui00/tbui00.github.io/blob/master/images/roomniverse-user-profile.JPG)
 
-![user profile image 2](https://tbui00.github.io/images/roomniverse-user-profile-page-2.jpg)
+![user profile image 2](https://github.com/tbui00/tbui00.github.io/blob/master/images/roomniverse-user-profile-2.JPG)
 
 
 ## The Admin page:
