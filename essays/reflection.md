@@ -3,7 +3,7 @@ layout: essay
 type: essay
 published: true
 title: Leaving the Course with Fundamentals to Remember 
-date: 2021-10-26
+date: 2021-12-26
 labels:
  - Software Engineering
  - Development Environments
