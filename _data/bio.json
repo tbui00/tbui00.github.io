@@ -51,7 +51,12 @@
       "keywords": [
         "C",
         "C++",
-        "Java"
+        "Java",
+        "Javascript",
+        "HTML/CSS",
+        "Meteor",
+        "React",
+        "Semantic UI"
       ]
     },
     {
@@ -71,7 +76,7 @@
       "startDate": "2018-08-23",
       "endDate": "Present",
       "gpa": "3.47",
-      "courses": "ICS 101, ICS 111, ICS 141, ICS 211, ICS 212, ICS 241, ICS 311"
+      "courses": "ICS-101/ICS1 110P/ICS 111/ICS 141/ICS 211/ICS 212/ICS 241/ICS 311/ICS 314"
     }
   ],
   "work": [
@@ -101,7 +106,18 @@
       ]
     }    
   ],
-  "volunteer": [
+  "extracurricular": [
+    {
+      "organization": "SWITCH(Supporting Women in Information Technology and Computing in Hawaii)",
+      "position": "VP of Marketing",
+      "startDate": "2021-10-14",
+      "endDate": "Present",
+      "summary": "Support women and minorities in technological industries to create a safe environment and sense of community",
+      "highlights": [
+        "Create captivating flyers for upcoming events",
+        "Write compelling event descriptions to  post to email lists, discord channels, and social media"
+      ]
+    },
     {
       "organization": "Hawaii Undergraduate Initiative",
       "position": "RIO Member",
