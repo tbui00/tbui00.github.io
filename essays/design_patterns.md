@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Design Patterns Help Us Design Solutions
 date: 2021-12-02
 labels:
