@@ -37,13 +37,13 @@ and helps everyone be on the same page. Using the GitHub project board helped di
 work. 
 
 ## The User Profile page:
-![landing image](https://tbui00.github.io/images/roomniverse-user-profile-page.jpg)
+![user profile image 1](https://tbui00.github.io/images/roomniverse-user-profile-page.jpg)
 
-![landing image](https://tbui00.github.io/images/roomniverse-user-profile-page-2.jpg)
+![user profile image 2](https://tbui00.github.io/images/roomniverse-user-profile-page-2.jpg)
 
 
 ## The Admin page:
-![landing image](https://tbui00.github.io/images/roomniverse-admin-page.jpg)
+![ladmin page image](https://tbui00.github.io/images/roomniverse-admin-page.jpg)
 
 
 Here is a link to our github project page for the [Roomniverse Web Application](https://roomniverse.github.io/).
