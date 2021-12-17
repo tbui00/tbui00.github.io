@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: The Javascript 1 Experience
 date: 2021-09-01
 labels:
