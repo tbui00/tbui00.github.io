@@ -22,3 +22,5 @@ Throughout this semester I have used and applied coding standards to my code and
 
 I always knew that coding standards were important because you want your code to be clean and readable however it made me think about coding standards, even more, when I started working in a group for the final project. We all commit and make pull requests to the main branch a lot and so a lot of code is being passed through. When issues were occurring in the code and the application wasn’t working, we had to read through the code to figure out what was wrong. While reading through the code, I did stumble upon code work that another teammate did which caught my attention. This code worked perfectly fine however how it was typed gave me a bit of trouble to see what the code is trying to do. This made me realize the importance of coding standards even more and that I should always remember to apply coding standards when I can. 
 
+&nbsp;
+&nbsp;
