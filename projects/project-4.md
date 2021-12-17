@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/roomniverse-picture-2.JPG
+image: images/roomniverse-picture-2.jpeg
 title: Roomniverse Web Applcation
 permalink: projects/roomniverse
 date: 2021-12-15
@@ -12,7 +12,7 @@ labels:
 summary: A web application that helps students who attend UH to find compatible roommates. 
 ---
 
-![landing image](https://tbui00.github.io/images/roomniverse-landing-page.JPG)
+![landing image](https://tbui00.github.io/images/roomniverse-landing-page.jpeg)
 
 ## Description:
 The Roomniverse web application serves to help UH community members that attend UH campus to find a roommate. Roomniverse offers users to make requests
@@ -38,13 +38,13 @@ work.
 
 ## The User Profile page:
 
-![user profile image 1](https://tbui00.github.io/images/roomniverse-user-profile.JPG)
+![user profile image 1](https://tbui00.github.io/images/roomniverse-user-profile.jpeg)
 
-![user profile image 2](https://tbui00.github.io/images/roomniverse-user-profile-2.JPG)
+![user profile image 2](https://tbui00.github.io/images/roomniverse-user-profile-2.jpeg)
 
 
 ## The Admin page:
-![ladmin page image](https://tbui00.github.io/images/roomniverse-admin-page.JPG)
+![ladmin page image](https://tbui00.github.io/images/roomniverse-admin-page.jpeg)
 
 
 Here is a link to our github project page for the [Roomniverse Web Application](https://roomniverse.github.io/).
