@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/roomniverse-picture-2.jpeg
+image: images/roomniverse-picture-2.png
 title: Roomniverse Web Applcation
 permalink: projects/roomniverse
 date: 2021-12-15
