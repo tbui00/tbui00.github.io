@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/roomniverse-picture.jpg
 title: Roomniverse Web Applcation
-permalink: projects/ui-database
+permalink: projects/roomniverse
 date: 2021-12-15
 labels:
   - Javascript
