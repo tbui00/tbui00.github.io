@@ -12,7 +12,7 @@ labels:
 summary: A web application that helps students who attend UH to find compatible roommates. 
 ---
 
-![landing image](https://github.com/tbui00/tbui00.github.io/images/roomniverse-landing-page.JPG)
+![landing image](https://tbui00.github.io/images/roomniverse-landing-page.JPG)
 
 ## Description:
 The Roomniverse web application serves to help UH community members that attend UH campus to find a roommate. Roomniverse offers users to make requests
@@ -37,13 +37,14 @@ and helps everyone be on the same page. Using the GitHub project board helped di
 work. 
 
 ## The User Profile page:
-![user profile image 1](https://github.com/tbui00/tbui00.github.io/images/roomniverse-user-profile.JPG)
 
-![user profile image 2](https://github.com/tbui00/tbui00.github.io/images/roomniverse-user-profile-2.JPG)
+![user profile image 1](https://tbui00.github.io/images/roomniverse-user-profile.JPG)
+
+![user profile image 2](https://tbui00.github.io/images/roomniverse-user-profile-2.JPG)
 
 
 ## The Admin page:
-![ladmin page image](https://github.com/tbui00/tbui00.github.io/images/roomniverse-admin-page.JPG)
+![ladmin page image](https://tbui00.github.io/images/roomniverse-admin-page.JPG)
 
 
 Here is a link to our github project page for the [Roomniverse Web Application](https://roomniverse.github.io/).
