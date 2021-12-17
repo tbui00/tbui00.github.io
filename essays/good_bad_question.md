@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Effectively Getting Help
 date: 2021-09-09
 labels:
